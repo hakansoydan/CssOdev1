@@ -5,12 +5,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
-# JPEG
-*.jpg
-*.jpeg
-*.jpe
-# Portable Network Graphics
-*.png
 
 # Password
 password.txt
